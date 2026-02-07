@@ -1,0 +1,87 @@
+1 Edgar Markov (INR) 328
+1 Anguished Unmaking (2X2) 170
+1 Anointed Procession (AKH) 2
+1 Arcane Signet (LCC) 299
+1 Ashnod's Altar (CMM) 368
+1 Bartolomé del Presidio (LCI) 224
+1 Blazemire Verge (DSK) 256
+1 Bleachbone Verge (DFT) 250
+1 Blood Artist (INR) 97
+1 Blood Crypt (RNA) 245
+1 Blood Seeker (DSC) 77
+1 Blood Tribute (C17) 100
+1 Bloodletter of Aclazotz (LCI) 336
+1 Bloodthirsty Conqueror (FDN) 58
+1 Bojuka Bog (LCC) 320
+1 Captivating Vampire (INR) 100
+1 Cathars' Crusade (INR) 17
+1 Cavern of Souls (LCI) 269
+1 Charismatic Conqueror (LCC) 70
+1 Clever Concealment (ONC) 5
+1 Command Tower (LCC) 325
+1 Cordial Vampire (LCC) 189
+1 Creeping Bloodsucker (J22) 21
+1 Cruel Celebrant (LCC) 267
+1 Demonic Tutor (CMM) 150
+1 Despark (BRC) 124
+1 Dragonskull Summit (DMC) 207
+1 Enlightened Tutor (DMR) 263
+1 Exquisite Blood (LCC) 195
+1 Farewell (M3C) 170
+1 Fervor (M13) 129
+1 Foreboding Ruins (FIC) 394
+1 Forerunner of the Legion (RIX) 9
+1 Gamble (EMA) 132
+1 Haunted Ridge (MID) 263
+1 Indulgent Aristocrat (INR) 118
+1 Isolated Chapel (LCC) 337
+1 Knight of the Ebon Legion (M20) 105
+1 Legion Lieutenant (LCC) 275
+1 Luxury Suite (CLB) 355
+1 Marauding Blight-Priest (FDN) 178
+1 Mavren Fein, Dusk Apostle (LCC) 133
+1 Mirkwood Bats (LTR) 95
+3 Mountain (THB) 253
+1 Nomad Outpost (DMC) 222
+1 Nykthos, Shrine to Nyx (THS) 223
+1 Path to Exile (OTC) 85
+1 Phyrexian Altar (2X2) 311 *F*
+1 Phyrexian Arena (FDN) 180
+1 Phyrexian Reclamation (TDC) 194
+1 Phyrexian Tower (MH3) 303
+6 Plains (THB) 250
+1 Preacher of the Schism (LCI) 113
+1 Pulse Tracker (FDN) 612
+1 Quag Vampires (CNS) 122
+1 Roaming Throne (LCI) 344
+1 Sanctum Seeker (LCC) 209
+1 Sanguine Bond (IMA) 107
+1 Savai Triome (IKO) 253
+1 Scavenger Grounds (C20) 306
+1 Shadow Alley Denizen (RVR) 92
+1 Shared Animosity (LCC) 231
+1 Shattered Sanctum (VOW) 264
+1 Smothering Tithe (2X2) 31
+1 Sol Ring (LCC) 313
+1 Stromkirk Captain (DKA) 143
+7 Swamp (THB) 252
+1 Swords to Plowshares (LCC) 137
+1 Teferi's Protection (C17) 8
+1 The Meathook Massacre (INR) 387
+1 Three Tree City (BLB) 260
+1 Tocasia's Welcome (BRO) 30
+1 Toxic Deluge (MH3) 277
+1 Trouble in Pairs (MKC) 15
+1 Unholy Officiant (VOW) 286
+1 Urborg, Tomb of Yawgmoth (UMA) 254
+1 Vampire of the Dire Moon (M20) 120
+1 Vandalblast (VOC) 152
+1 Vault of Champions (CMM) 436
+1 Vengeful Bloodwitch (FDN) 76
+1 Vicious Conquistador (J25) 507
+1 Victimize (SCD) 118
+1 Viscera Seer (LCC) 213
+1 Vito, Thorn of the Dusk Rose (P30A) 28 *F*
+1 Vraan, Executioner Thane (ONE) 114 *F*
+1 Warleader's Call (MKM) 315
+1 Welcoming Vampire (LCC) 140

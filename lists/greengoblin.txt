@@ -1,0 +1,80 @@
+1 Ultimate Green Goblin (SPM) 157
+1 Anger (M3C) 208
+1 Arcane Signet (MIC) 157
+1 Archfiend of Ifnir (DRC) 86
+1 Ardyn, the Usurper (FIN) 89
+1 Baleful Force (C13) 70
+1 Big Game Hunter (C19) 106
+1 Big Score (SNC) 102
+1 Bitter Reunion (BRO) 127
+1 Blasphemous Act (2XM) 117
+1 Blood Crypt (ECL) 262
+1 Bloodgift Demon (SCD) 69
+1 Bojuka Bog (C19) 232
+1 Bond of Revival (WAR) 80
+1 Bone Miser (SPG) 87
+1 Boundary Lands Ranger (WOE) 123
+1 Burning-Rune Demon (KHM) 81
+1 Canyon Slough (WHO) 259
+1 Carnage, Crimson Chaos (SPM) 125
+1 Chainer, Nightmare Adept (MH2) 289
+1 Chaos Warp (C19) 136
+1 Coiling Rebirth (BLB) 86
+1 Combustible Gearhulk (C21) 163
+1 Command Tower (C19) 237
+1 Cryptcaller Chariot (DFT) 80
+1 Dark Ritual (DKM) 4
+1 Defossilize (LCI) 103
+1 Demand Answers (MKM) 306
+1 Demonlord Belzenlok (CMM) 151
+1 Diabolic Servitude (USG) 130
+1 Disciple of Bolas (C20) 132
+1 Doomsday Excruciator (DSK) 94
+1 Dragonskull Summit (DMC) 207
+1 Dread Return (PLST) DDQ-55
+1 Enterprising Scallywag (LCI) 148
+1 Evil Reawakened (FIN) 98
+1 Exotic Orchard (C19) 242
+1 Faithless Looting (PLST) CM2-96
+1 Foreboding Ruins (40K) 279
+1 Grab the Prize (DSK) 138
+1 Green Goblin, Nemesis (SPE) 23
+1 Green Goblin, Revenant (SPM) 130
+1 Harvester of Souls (E01) 34
+1 Haunted Ridge (DBL) 263
+1 Keen Duelist (SLD) 828
+1 Live or Die (DSK) 107
+1 Luxury Suite (BBD) 82
+1 Monument to Endurance (DFT) 237
+10 Mountain (J25) 90
+1 Parker Luck (SPM) 60
+1 Prison Break (SPM) 61
+1 Rakdos Charm (VOC) 156
+1 Rakdos Joins Up (OTJ) 225
+1 Rakdos Signet (NCC) 378
+1 Rakdos, Patron of Chaos (MKM) 369
+1 Reanimate (UMA) 110
+1 Rescue from the Underworld (THS) 102
+1 Restart Sequence (ACR) 30
+1 Rocket-Powered Goblin Glider (SPM) 172
+1 Rune-Scarred Demon (CMM) 184
+1 Scarlet Spider, Kaine (SPM) 143
+1 Shadow of the Goblin (SPM) 87
+1 Shadowblood Ridge (C20) 309
+1 Shadowgrange Archfiend (VOC) 60
+1 Sheoldred, Whispering One (JMP) 278
+1 Smoldering Marsh (BRC) 202
+1 Sol Ring (C19) 221
+1 Sulfurous Springs (DMU) 256
+12 Swamp (J25) 89
+1 Tainted Peak (PIP) 300
+1 Talisman of Indulgence (SCD) 282
+1 Temple of Malice (THB) 247
+1 Terminal Agony (MH2) 215
+1 Thrill of Possibility (ELD) 146
+1 Torrent of Souls (EMA) 217
+1 Twilight Prophet (CMM) 193
+1 Vilis, Broker of Blood (M20) 122
+1 Xorn (AFR) 167
+1 Yawgmoth's Vile Offering (DOM) 114
+1 Zombify (A25) 116

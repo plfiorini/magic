@@ -1,0 +1,91 @@
+1 Valgavoth, Harrower of Souls (DSC) 6 *F*
+1 Ankh of Mishra (3ED) 233
+1 Arcane Signet (DSC) 92
+1 Archenemy's Charm (EOE) 88
+1 Barbed Wire (MMQ) 287
+1 Blasphemous Act (DSC) 160
+1 Blazemire Verge (DSK) 256
+1 Blood Crypt (RNA) 245
+1 Blood Seeker (DSC) 77
+1 Bloodchief Ascension (ZEN) 82
+1 Bloodletter of Aclazotz (LCI) 336
+1 Bloodthirsty Conqueror (FDN) 58
+1 Boggart Trawler / Boggart Bog (MH3) 243
+1 Bojuka Bog (BLC) 294
+1 Bolt Bend (FDN) 619
+1 Champion's Helm (PIP) 228
+1 Chandra, Awakened Inferno (M20) 127
+1 Chaos Warp (DSC) 162
+1 Command Beacon (TDC) 352
+1 Command Tower (DSC) 96
+1 Damnation (2X2) 353
+1 Darkness (TSB) 40
+1 Deadly Rollick (CMM) 147
+1 Demonic Tutor (CMM) 150
+1 Dragonskull Summit (DSC) 271
+1 Exquisite Blood (LCC) 195
+1 Exsanguinate (FDN) 173
+1 Fate Unraveler (DSC) 141
+1 Feign Death (AFR) 103
+1 Fell the Profane / Fell Mire (MH3) 244
+1 Foreboding Ruins (DSC) 277
+1 Gamble (UMA) 132
+1 Gleeful Arsonist (DSC) 27
+1 Graven Cairns (DSC) 280
+1 Haunted Ridge (MID) 263
+1 Jet Medallion (MH3) 292
+1 Kaya's Ghostform (WAR) 94
+1 Kederekt Parasite (DSC) 144
+1 Leechridden Swamp (DSC) 286
+1 Lightning Greaves (DSC) 93
+1 Luxury Suite (CLB) 355
+1 Mai, Scornful Striker (TLA) 109
+1 Malakir Rebirth / Malakir Mire (ZNR) 111
+1 Mindcrank (IMA) 220
+1 Mithril Coat (LTR) 245
+1 Mogis, God of Slaughter (DSC) 89
+1 Mount Doom (LTR) 258
+4 Mountain (DSK) 284
+1 Mountain (DSK) 283
+1 Nightshade Harvester (DSC) 150
+1 No Mercy (DMR) 427 *F*
+1 Nuclear Fallout (PIP) 575 *F*
+1 Ob Nixilis, Captive Kingpin (MAT) 41
+1 Orcish Bowmasters (LTR) 103
+1 Painful Quandary (BRO) 111
+1 Polluted Bonds (WOT) 34
+1 Rakdos Charm (DSC) 229
+1 Rakdos Signet (DSC) 250
+1 Razorkin Needlehead (DSK) 153
+1 Redirect Lightning (TLA) 151
+1 Reliquary Tower (PLG20) 1 *F*
+1 Revenge of Ravens (ELD) 104
+1 Ruby Medallion (MH3) 295
+1 Rug of Smothering (CLB) 336
+1 Scavenger Grounds (C20) 306
+1 Scrawling Crawler (FDN) 132
+1 Screaming Nemesis (DSK) 157
+1 Shadowblood Ridge (DSC) 296
+1 Shadowspear (THB) 236
+1 Shivan Gorge (DSC) 297
+1 Smoldering Marsh (DSC) 299
+1 Sol Ring (DSC) 94
+1 Solphim, Mayhem Dominus (ONE) 150
+1 Spiteful Visions (DSC) 233
+5 Swamp (DSK) 282
+3 Swamp (DSK) 281
+1 Swiftfoot Boots (FDN) 258
+1 Tainted Peak (DSC) 304
+1 Talisman of Indulgence (DSC) 254
+1 Temple of Malice (DSC) 310
+1 Terminate (M3C) 274
+1 The Ozolith (IKO) 237
+1 The Reaver Cleaver (M3C) 217
+1 Thought Vessel (DSC) 256
+1 Toxic Deluge (MH3) 277
+1 Underworld Dreams (THB) 121
+1 Unlicensed Disintegration (2XM) 224
+1 Untimely Malfunction (DSK) 161
+1 Vandalblast (RTR) 111
+1 Witch's Clinic (DSC) 325
+1 Withering Torment (DSK) 124

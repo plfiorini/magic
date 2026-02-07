@@ -1,0 +1,84 @@
+1 Toph, Hardheaded Teacher (TLA) 246
+1 Aftermath Analyst (EOC) 91
+1 Ashaya, Soul of the Wild (DSC) 170
+1 Avenger of Zendikar (TDC) 247
+1 Ba Sing Se (TLA) 266
+1 Badgermole (TLA) 166
+1 Baloth Prime (EOC) 13
+1 Branching Evolution (MH3) 285
+1 Bumi, Unleashed (TLA) 211
+1 Cabaretti Courtyard (EOC) 151
+1 Cinder Glade (EOC) 154
+1 Collective Resistance (MH3) 147
+1 Command Beacon (TDC) 352
+1 Command Tower (SCD) 297
+1 Constant Mists (STH) 104
+1 Craterhoof Behemoth (TDM) 138
+1 Crop Rotation (ULG) 98
+1 Crucible of Worlds (10E) 319
+1 Cycle of Renewal (TLA) 170
+1 Dryad Arbor (DSC) 273
+1 Duskshell Crawler (J25) 653
+1 Earthbender Ascension (TLA) 175
+1 Edge of Autumn (TSR) 201
+1 Elvish Reclaimer (M20) 169
+1 Escape Tunnel (EOC) 157
+1 Etali, Primal Storm (FDN) 194
+1 Evendo Brushrazer (EOC) 10
+1 Evolutionary Leap (ORI) 176
+1 Evolving Wilds (FDN) 262
+1 Explore (J25) 146
+1 Fabled Passage (EOC) 60
+1 Famished Worldsire (EOE) 182
+1 Farseek (EOC) 50
+1 Field of the Dead (M20) 247
+1 Finale of Devastation (WAR) 160
+10 Forest (J25) 93
+1 Gamble (EMA) 132
+1 Green Sun's Zenith (EMA) 169
+1 Harrow (EOC) 98
+1 Heroic Intervention (WHO) 1067 *F*
+1 Highway Robbery (OTJ) 129
+1 Horizon Explorer (EOC) 15
+1 Icetill Explorer (PEOE) 192p
+1 Insidious Fungus (DSK) 186
+1 Into the North (CSP) 111
+1 Jeska's Will (CMR) 187
+1 Karn's Bastion (EOC) 163
+1 Kavaron, Memorial World (EOE) 255
+1 Lightning Bolt (M10) 146
+1 Lotus Cobra (IMA) 174
+1 Lotus Field (M20) 249
+1 Moraug, Fury of Akoum (EOC) 89
+8 Mountain (J25) 90
+1 Mountain Valley (EOC) 61
+1 Nahiri's Lithoforming (ZNR) 151
+1 Nature's Lore (EOC) 101
+1 Omnath, Locus of Rage (EOC) 123
+1 Orcish Lumberjack (PLST) DDL-44
+1 Pinnacle Monk (MH3) 246
+1 Rampaging Baloths (EOC) 104
+1 Redirect Lightning (TLA) 151
+1 Riveteers Overlook (EOC) 172
+1 Sabotender (FIN) 153
+1 Scute Swarm (DSC) 197
+1 Shared Roots (TLA) 196
+1 Shifting Woodland (MH3) 228
+1 Skullclamp (BLC) 283
+1 Sol Ring (SCD) 276
+1 Spelunking (LCI) 213
+1 Springheart Nantuko (MH3) 171
+1 Strip Mine (REN) 189
+1 Sylvan Safekeeper (MH3) 287
+1 Tannuk, Memorial Ensign (EOE) 233 *F*
+1 Terramorphic Expanse (DSK) 269
+1 Three Visits (FIC) 315
+1 Titania, Protector of Argoth (EOC) 111
+1 Traveling Chocobo (FIN) 210
+1 Tunneling Geopede (BFZ) 158
+1 Valakut Exploration (ZNR) 175
+1 Walk-In Closet (DSK) 205
+1 Wasteland (SLC) 23
+1 Wilderness Reclamation (DSC) 205
+1 Worldly Tutor (CC1) 6
+1 Zuran Orb (MH2) 300

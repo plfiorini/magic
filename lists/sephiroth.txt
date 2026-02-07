@@ -1,0 +1,72 @@
+1 Sephiroth, Fabled SOLDIER (FIN) 115
+1 Accursed Marauder (MH3) 80
+1 Agent of the Iron Throne (CLB) 107
+1 Animate Dead (4ED) 118
+1 Arcane Signet (SCD) 257
+1 Archenemy's Charm (EOE) 88
+1 Ashnod's Altar (CMM) 368
+1 Ayara, First of Locthwain (PELD) 75p
+1 Bastion of Remembrance (TDC) 171
+1 Bitterblossom (2X2) 69
+1 Black Market (C17) 98
+1 Black Market Connections (ACR) 87
+1 Blasphemous Edict (FDN) 57
+1 Blood Artist (INR) 97
+1 Bloodghast (LCC) 184
+1 Bojuka Bog (BLC) 294
+1 Braids, Arisen Nightmare (DSC) 133
+1 Burnished Hart (PLST) C15-248
+1 Cabal Coffers (MH2) 301
+1 Cabal Stronghold (DOM) 238
+1 Charcoal Diamond (CMR) 303 *F*
+1 Coldsteel Heart (2X2) 301
+1 Crowded Crypt (DRC) 88
+1 Crypt Ghast (C14) 139
+1 Dark Prophecy (M14) 93
+1 Deadly Rollick (CMM) 147
+1 Demon's Disciple (ZNR) 97
+1 Demonic Tutor (CMM) 150
+1 Dictate of Erebos (PLST) JOU-65
+1 Dread Presence (M20) 96
+1 Dreadhorde Invasion (DRC) 91
+1 Endrek Sahr, Master Breeder (TSP) 106
+1 Feed the Swarm (FDN) 712 *F*
+1 Fleshbag Marauder (DRC) 92
+1 Forsaken Miner (OTJ) 88
+1 Fumulus, the Infestation (J25) 42
+1 Grave Pact (8ED) 137
+1 Gravecrawler (INR) 114
+1 Infestation Sage (FDN) 64
+1 Jadar, Ghoulcaller of Nephalia (MID) 108
+1 Jet Medallion (MH3) 292
+1 Kaervek, the Punisher (POTJ) 92p
+1 Liliana, Dreadhorde General (FDN) 176
+1 Merciless Executioner (LTC) 204
+1 Mirkwood Bats (LTR) 95
+1 Morbid Opportunist (TDC) 188
+1 Nine-Lives Familiar (FDN) 66
+1 Nykthos, Shrine to Nyx (THS) 223
+1 Ophiomancer (TDC) 193
+1 Pawn of Ulamog (ROE) 122
+1 Phyrexian Altar (2X2) 311 *F*
+1 Phyrexian Reclamation (TDC) 194
+1 Phyrexian Tower (MH3) 303
+1 Pitiless Plunderer (PIP) 187
+1 Reanimate (DSC) 155
+1 Reassembling Skeleton (FDN) 182
+1 Skullclamp (BLC) 283
+1 Sol Ring (SCD) 276
+1 Solemn Simulacrum (DSC) 253
+29 Swamp (THB) 252
+1 Syr Konrad, the Grim (DSC) 158
+1 The Meathook Massacre (INR) 387
+1 Throne of Eldraine (WOC) 28
+1 Timeline Culler (EOE) 121
+1 Unearth (MH1) 113
+1 Urborg, Tomb of Yawgmoth (UMA) 254
+1 Vindictive Vampire (CLU) 126
+1 War Room (MKC) 310
+1 Warren Soultrader (MH3) 110
+1 Withering Torment (DSK) 124
+1 Zodiark, Umbral God (FIN) 128
+1 Zulaport Cutthroat (A25) 117

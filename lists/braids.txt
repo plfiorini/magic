@@ -1,0 +1,79 @@
+1 Braids, Arisen Nightmare (DSC) 133
+1 Aetherflux Reservoir (PLST) KLD-192
+1 Arcane Signet (FDC) 1 *F*
+1 Ayara, First of Locthwain (ELD) 75
+1 Bastion of Remembrance (DSC) 131
+1 Bitterbloom Bearer (ECL) 310
+1 Black Market Connections (ACR) 87
+1 Blood Artist (DSC) 132
+1 Bloodghast (LCC) 184
+1 Bojuka Bog (EOC) 149
+1 Bolas's Citadel (PLG21) 3 *F*
+1 Bontu's Monument (AKH) 225
+1 Cabal Coffers (MH2) 301
+1 Cabal Stronghold (DOM) 238
+1 Castle Locthwain (ELD) 241
+1 Command Beacon (TDC) 352
+1 Crucible of Worlds (10E) 319
+1 Crypt Ghast (C14) 139
+1 Cult Conscript (DMU) 88
+1 Dark Ritual (4ED) 129
+1 Deadly Dispute (TDC) 177
+1 Deadly Rollick (CMM) 147
+1 Demonic Tutor (CMM) 150
+1 Diabolic Intent (BBD) 141
+1 Dread Presence (M20) 96
+1 Dreadhorde Invasion (MIC) 114
+1 Exsanguinate (FDN) 173
+1 Feed the Swarm (FDN) 712 *F*
+1 Gixian Puppeteer (BRO) 99
+1 Grave Pact (8ED) 137
+1 Grave Venerations (ECC) 9
+1 Gravepurge (DTK) 104
+1 Gray Merchant of Asphodel (DSC) 142
+1 Grim Haruspex (KTK) 73
+1 Grim Tutor (M21) 103
+1 Infernal Grasp (DSC) 143
+1 Insatiable Avarice (OTJ) 91
+1 Jadar, Ghoulcaller of Nephalia (MID) 108
+1 Jet Medallion (MH3) 292
+1 Kaya's Ghostform (WAR) 94
+1 Lightning Greaves (OTC) 260
+1 Liliana, Dreadhorde General (FDN) 176
+1 Marionette Apprentice (MH3) 100
+1 Massacre Girl (DSC) 146
+1 Mindcrank (IMA) 220
+1 Morbid Opportunist (DSC) 148
+1 Nykthos, Shrine to Nyx (THS) 223
+1 Ophiomancer (TDC) 193
+1 Pawn of Ulamog (ROE) 122
+1 Persistent Specimen (VOW) 125
+1 Phyrexian Reclamation (TDC) 194
+1 Phyrexian Tower (MH3) 303
+1 Pitiless Plunderer (PIP) 187
+1 Plaguecrafter (RVR) 89
+1 Reanimate (DSC) 155
+1 Reassembling Skeleton (FDN) 182
+1 Reliquary Tower (PLG20) 1 *F*
+1 Sensei's Divining Top (PLST) EMA-232
+1 Sheoldred, the Apocalypse (DMU) 369
+1 Sheoldred, Whispering One (SLD) 211
+1 Sol Ring (FDC) 2 *F*
+1 Solemn Simulacrum (DSC) 253
+1 Swamp (LCI) 397
+5 Swamp (LCI) 398
+18 Swamp (FDN) 277
+1 Syr Konrad, the Grim (DSC) 158
+1 The Meathook Massacre (INR) 387
+1 Thought Vessel (SCD) 285
+1 Throne of Eldraine (WOC) 28
+1 Timeline Culler (EOE) 121
+1 Torment of Hailfire (HOU) 77
+1 Toxic Deluge (MH3) 277
+1 Tragic Slip (INR) 134
+1 Unearth (MH1) 113
+1 Urborg, Tomb of Yawgmoth (UMA) 254
+1 Vraan, Executioner Thane (ONE) 114 *F*
+1 Withering Torment (DSK) 124
+1 Yahenni, Undying Partisan (LCC) 214
+1 Zulaport Cutthroat (BFZ) 126

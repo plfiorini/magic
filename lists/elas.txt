@@ -1,0 +1,89 @@
+1 Elas il-Kor, Sadistic Pilgrim (DMU) 198
+1 Anguished Unmaking (2X2) 170
+1 Anointed Procession (AKH) 2
+1 Arcane Signet (SCD) 257
+1 Ashnod's Altar (CMM) 368
+1 Bartolomé del Presidio (LCI) 224
+1 Bastion of Remembrance (DSC) 131
+1 Bitterbloom Bearer (ECL) 310
+1 Black Market Connections (ACR) 87
+1 Blasphemous Edict (FDN) 57
+1 Bleachbone Verge (DFT) 250
+1 Blood Artist (INR) 97
+1 Blood Seeker (DSC) 77
+1 Bojuka Bog (BLC) 294
+1 Braids, Arisen Nightmare (DSC) 133
+1 Caretaker's Talent (BLB) 6
+1 Caves of Koilos (DRC) 148
+1 Command Beacon (TDC) 352
+1 Command Tower (LCC) 325
+1 Corpse Knight (DRC) 50
+1 Corrupted Conviction (OTJ) 84
+1 Cut Down (DMU) 89
+1 Damn (LCC) 191
+1 Dark Prophecy (M14) 93
+1 Dark Ritual (4ED) 129
+1 Denethor, Ruling Steward (LTR) 198
+1 Despark (DRC) 115
+1 Diabolic Intent (BBD) 141
+1 Dreadhorde Invasion (DRC) 91
+1 Elenda, the Dusk Rose (LCC) 268
+1 Enduring Innocence (DSK) 6
+1 Enduring Tenacity (DSK) 374
+1 Enlightened Tutor (DMR) 263
+1 Felidar Retreat (PZNR) 16p
+1 Fell the Profane / Fell Mire (MH3) 244
+1 Fetid Heath (TDC) 362
+1 Fracture (STX) 188
+1 Grave Pact (9ED) 135
+1 Grim Haruspex (KTK) 73
+1 Hidden Stockpile (PLST) AER-129
+1 High Market (FIC) 402
+1 Isolated Chapel (TDC) 373
+1 Jadar, Ghoulcaller of Nephalia (MID) 315
+1 Kambal, Consul of Allocation (PKLD) 183s *F*
+1 Kambal, Profiteering Mayor (POTJ) 211p
+1 Lunar Convocation (PBLB) 223p
+1 Marionette Apprentice (MH3) 100
+1 Mirkwood Bats (LTR) 95
+1 Mondrak, Glory Dominus (ONE) 23
+1 Ophiomancer (TDC) 193
+1 Path to Exile (DMC) 104
+1 Phyrexian Altar (2X2) 311 *F*
+1 Phyrexian Arena (FDN) 180
+1 Phyrexian Tower (MH3) 303
+1 Pitiless Plunderer (PIP) 187
+3 Plains (WOE) 267
+1 Reassembling Skeleton (FDN) 182
+1 Reliquary Tower (PLG20) 1 *F*
+1 Rite of Oblivion (DBL) 237
+1 Scoured Barrens (KTK) 242
+1 Shattered Sanctum (TDC) 391
+1 Shineshadow Snarl (LCC) 351
+1 Smothering Tithe (2X2) 31
+1 Sol Ring (DRC) 56
+1 Starscape Cleric (BLB) 116
+1 Suture Priest (NPH) 25
+3 Swamp (J25) 88
+5 Swamp (J25) 89
+4 Swamp (FDN) 277
+1 Swiftfoot Boots (FDN) 258
+1 Swords to Plowshares (SCD) 37
+1 Tainted Field (LCC) 356
+1 Talisman of Hierarchy (LCC) 315
+1 Teferi's Protection (C17) 8
+1 Temple of Silence (TDC) 406
+1 Teysa Karlov (RNA) 212
+1 The Meathook Massacre (INR) 387
+1 Torment of Hailfire (HOU) 77
+1 Toxic Deluge (MH3) 277
+1 Umbral Collar Zealot (EOE) 123
+1 Vault of Champions (CMM) 436
+1 Vault of the Archangel (LCC) 367
+1 Village Rites (INR) 137
+1 Viscera Seer (TDC) 199
+1 Vito, Thorn of the Dusk Rose (P30A) 28 *F*
+1 Vraan, Executioner Thane (ONE) 114 *F*
+1 Warren Soultrader (MH3) 110
+1 Woe Strider (TDC) 201
+1 Zulaport Cutthroat (A25) 117

@@ -1,0 +1,92 @@
+1 Zurgo Stormrender (TDC) 10 *F*
+1 Adeline, Resplendent Cathar (TDC) 108
+1 Ainok Strike Leader (TDC) 11
+1 Anguished Unmaking (2X2) 170
+1 Anim Pakal, Thousandth Moon (LCI) 223
+1 Anointed Procession (AKH) 2
+1 Bartolomé del Presidio (LCI) 224
+1 Bastion of Remembrance (TDC) 171
+1 Battlefield Forge (TDC) 340
+1 Bitterbloom Bearer (ECL) 310
+1 Blade of Selves (TDC) 313
+1 Blasphemous Edict (FDN) 57
+1 Blood Crypt (RNA) 245
+1 Bojuka Bog (TDC) 341
+1 Caesar, Legion's Emperor (PIP) 1 *F*
+1 Caretaker's Talent (BLB) 6
+1 Carrion Feeder (SCG) 59
+1 Castle Ardenvale (TDC) 346
+1 Caves of Koilos (TDC) 348
+1 Command Tower (TDC) 107
+1 Crackling Doom (KTK) 171
+1 Dalek Squadron (WHO) 65
+1 Deadly Rollick (CMM) 147
+1 Demonic Tutor (CMM) 150
+1 Dictate of Erebos (JOU) 65
+1 Dragonskull Summit (TDC) 357
+1 Elas il-Kor, Sadistic Pilgrim (DMU) 297
+1 Enduring Innocence (DSK) 6
+1 Enlightened Tutor (DMR) 6
+1 Fell the Profane / Fell Mire (MH3) 244
+1 Fetid Heath (TDC) 362
+1 Generous Gift (CMM) 26
+1 Goblin Bombardment (MH2) 279
+1 Goldlust Triad (TDC) 34
+1 Hammers of Moradin (CLB) 25
+1 Hero of Bladehold (TDC) 119
+1 Idol of Oblivion (TDC) 319
+1 Inevitable Defeat (TDM) 194
+1 Infantry Shield (TDC) 35
+1 Ironwill Forger (TDC) 13
+1 Isolated Chapel (TDC) 373
+1 Lightning Greaves (TDC) 102
+1 Luxury Suite (CLB) 355
+1 Minas Tirith (LTR) 256
+1 Mirkwood Bats (LTR) 95
+1 Mondrak, Glory Dominus (ONE) 23
+1 Morbid Opportunist (TDC) 188
+2 Mountain (TDM) 283
+1 Mountain (TDM) 284
+1 Myrel, Shield of Argive (BRO) 18
+1 Neriv, Heart of the Storm (TDM) 210
+1 Nomad Outpost (TDM) 263
+1 Path of Ancestry (TDC) 382
+1 Path to Exile (DMC) 104
+1 Phyrexian Tower (MH3) 303
+1 Pitiless Plunderer (PIP) 187
+4 Plains (TDM) 278
+3 Plains (TDM) 277
+1 Rabble Rousing (PSNC) 24p
+1 Redoubled Stormsinger (TDC) 37
+1 Reliquary Tower (PLG20) 1 *F*
+1 Shattered Sanctum (TDC) 391
+1 Skullclamp (TDC) 103
+1 Smoldering Marsh (TDC) 395
+1 Smothering Tithe (2X2) 31
+1 Sol Ring (TDC) 106
+1 Sundown Pass (VOW) 285
+2 Swamp (TDM) 282
+2 Swamp (TDM) 281
+1 Swords to Plowshares (TDC) 134
+1 Syr Konrad, the Grim (DSC) 158
+1 Talisman of Conviction (TDC) 329
+1 Talisman of Hierarchy (TDC) 331
+1 Talisman of Indulgence (DSC) 254
+1 Teferi's Protection (C17) 8
+1 Temple of Silence (TDC) 406
+1 Temple of Triumph (TDC) 407
+1 The Meathook Massacre (INR) 387
+1 Thought Vessel (SCD) 285
+1 Tocasia's Welcome (TDC) 135
+1 Torment of Hailfire (HOU) 77
+1 Toxic Deluge (MH3) 277
+1 Vandalblast (RTR) 111
+1 Vault of the Archangel (TDC) 410
+1 Viscera Seer (TDC) 199
+1 Voice of Victory (TDM) 33
+1 Warleader's Call (MKM) 315
+1 Will of the Mardu (TDC) 17
+1 Windcrag Siege (PTDM) 235p
+1 Withering Torment (DSK) 124
+1 Within Range (TDC) 32
+1 Yahenni, Undying Partisan (TDC) 202
